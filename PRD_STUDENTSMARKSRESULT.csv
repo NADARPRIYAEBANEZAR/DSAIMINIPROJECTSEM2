@@ -1,0 +1,13 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,G3,predict
+MS,M,20,R,GT3,A,0,3,other,services,reputation,mother,1,1,3,no,no,no,yes,no,no,yes,no,4,3,5,3,5,3,2,14,4,0,3.2464216850812213
+GP,M,18,U,LE3,T,4,4,teacher,teacher,home,mother,1,1,0,yes,yes,yes,no,yes,yes,no,yes,2,4,2,2,2,2,5,3,13,0,9.951614504926575
+GP,F,17,U,GT3,T,4,2,other,other,reputation,mother,2,3,2,no,yes,yes,no,yes,yes,yes,no,4,3,1,1,5,1,0,15,12,0,12.874981306312389
+MS,F,17,R,GT3,A,3,2,health,health,course,father,1,4,0,no,yes,yes,yes,no,yes,no,no,5,1,2,5,2,5,7,4,16,0,13.997668200412813
+MS,M,19,R,LE3,A,1,1,other,other,home,other,1,2,1,no,yes,no,yes,yes,no,yes,yes,4,4,4,2,1,3,20,15,14,0,14.108945694544422
+GP,M,18,U,GT3,T,4,4,services,at_home,other,other,1,2,1,yes,yes,yes,yes,yes,yes,no,no,1,4,3,2,1,2,5,14,12,0,10.764954094931767
+GP,F,16,R,GT3,T,3,3,other,services,other,father,1,2,2,no,no,no,yes,yes,yes,no,yes,4,2,3,2,2,2,0,5,15,0,12.378002780413189
+MS,F,15,U,LE3,A,2,2,at_home,other,course,father,2,1,0,no,yes,no,no,no,no,yes,no,3,3,4,1,4,3,12,10,17,0,17.433965875047114
+MS,M,19,R,GT3,A,3,0,other,at_home,reputation,mother,1,2,1,yes,no,no,yes,yes,yes,no,no,1,5,2,3,2,5,8,15,12,0,11.288930618209356
+GP,M,15,U,LE3,T,2,2,services,other,course,father,2,3,0,no,yes,no,no,no,yes,yes,yes,3,2,2,1,3,4,54,6,10,0,12.11295950557816
+GP,F,19,R,GT3,T,0,3,other,services,reputation,father,1,2,3,no,no,yes,yes,yes,no,no,no,4,5,3,4,2,4,40,15,12,0,13.376806530493734
+MS,F,21,U,LE3,T,2,1,at_home,other,course,father,2,4,0,yes,yes,yes,no,no,yes,yes,yes,2,4,5,5,3,5,75,7,11,0,12.539713437267734
